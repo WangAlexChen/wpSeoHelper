@@ -1,0 +1,21 @@
+{
+    "name": "wang-ge/wp-seo-helper",
+    "description": "Wordpress的SEO助手",
+    "type": "library",
+    "require": {
+        "php": ">=7.3"
+    },
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "WangGe\\WpSeoHelper\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wang",
+            "email": "869476711@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
