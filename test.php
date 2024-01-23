@@ -1,4 +1,5 @@
 <?php
+namespace WangGe\WpSeoHelper;
 /**
  * WpSeoHelper - Custom Content Types and Fields
  *
@@ -23,6 +24,10 @@
  */
 
 defined( 'ABSPATH' ) || exit;
+
+class WpSeoHelper{
+    
+}
 
  echo 'hello word!';
  
