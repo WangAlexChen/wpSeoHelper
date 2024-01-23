@@ -26,7 +26,7 @@ namespace WangGe\WpSeoHelper;
 defined( 'ABSPATH' ) || exit;
 
 class WpSeoHelper{
-    
+
 }
 
  echo 'hello word!';
